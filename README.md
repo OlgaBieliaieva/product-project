@@ -197,3 +197,28 @@
             strategy, landing page, Ux/UI?
           </p>
         </header>
+     
+      
+<!-- ViktorMudrenko      -->
+       <!-- News feed -->
+      <section>
+        <h2>Contents Strategies</h2>
+        <p>We focus on ergonomics and meeting you where you work. It's only a keystroke away.</p>
+      <ul>
+        <li>
+          <img src="./images/news/image-2.jpg" alt="news1" width="350" height="185">
+          <p>By <b>Wahid Ari</b> &#124; <time datetime="2019-03-03">03 March 2019</time></p>
+          <h3>Increasing Prosperity With Positive Thinking</h3>
+        </li>
+        <li>
+          <img src="./images/news/image-1.jpg" alt="news2" width="350" height="185">
+          <p>By <b>Wahid Ari</b> &#124; <time datetime="2019-03-03">03 March 2019</time></p>
+          <h3>Motivation Is The First Step To Success</h3>
+        </li>
+        <li>
+          <img src="./images/news/image.jpg" alt="news3" width="350" height="185">
+          <p>By <b>Wahid Ari</b> &#124; <time datetime="2019-03-03">03 March 2019</time></p>
+          <h3>Success Steps For Your Personal Or Business</h3>
+        </li>
+      </ul>
+      </section>

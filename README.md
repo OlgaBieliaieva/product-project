@@ -181,3 +181,19 @@
           height="500"
         />
       </section>
+      
+      
+      
+      
+      
+<!--   em0nti     -->
+      <!-- staff section -->
+      <section>
+        <!-- Питання до ментора:"Доцільно використовувати тег header у заголовку секції або можна обійтися div? Що використовується на практиці в реальних проєктах? Чи взагалі це два окремі тега котрі йдуть один за одним?" -->
+        <header>
+          <h2>Quick & Easy Process</h2>
+          <p>
+            Do you require some help for your project: Conception workshop, prototyping, marketing
+            strategy, landing page, Ux/UI?
+          </p>
+        </header>
